@@ -1,0 +1,37 @@
+[
+  {
+    "titulo": "Californication",
+    "album": "Californication",
+    "imagenAlbum": "/images/red-hot-chili-peppers-californication-2137.jpg",
+    "duracion": 333,
+    "valoracion": 9
+  },
+  {
+    "titulo": "Frozen",
+    "album": "Ray of Light",
+    "imagenAlbum": "/images/Ray_of_Light_Madonna.png",
+    "duracion": 305,
+    "valoracion": 9
+  },
+  {
+    "titulo": "Enjoy the Silence",
+    "album": "Violator",
+    "imagenAlbum": "/images/Violator",
+    "duracion": 330,
+    "valoracion": 10
+  },
+  {
+    "titulo": "Coffee & TV",
+    "album": "13",
+    "imagenAlbum": "images/Coffee_-_TV_cover.jpg",
+    "duracion": 250,
+    "valoracion": 8
+  },
+  {
+    "titulo": "Smells Like Teen Spirit",
+    "album": "Nevermind",
+    "imagenAlbum": "https://upload.wikimedia.org/wikipedia/en/b/b7/NirvanaNevermindalbumcover.jpg",
+    "duracion": 301,
+    "valoracion": 10
+  }
+]
